@@ -7,7 +7,7 @@ import Navigation from '../Navigation';
 const Layout = ({ children }) => (
   <div>
     <Head>
-      <title>Netflix Jobs</title>
+      <title>HelloKnots</title>
     </Head>
 
     <Navigation />

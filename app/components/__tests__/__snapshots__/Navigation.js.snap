@@ -24,11 +24,6 @@ exports[`Navigation renders 1`] = `
     className="css-5osg3l"
   >
     <a
-      className="css-1ibwuiw"
-    >
-      We Are Netflix
-    </a>
-    <a
       className="css-12y9qrc"
     >
       Teams

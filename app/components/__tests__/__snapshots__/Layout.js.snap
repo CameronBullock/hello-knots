@@ -27,7 +27,6 @@ exports[`Layout renders the child wrapped in the layout 1`] = `
       <a
         className="css-1ibwuiw"
       >
-        We Are Netflix
       </a>
       <a
         className="css-12y9qrc"

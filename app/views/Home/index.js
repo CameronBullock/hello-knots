@@ -4,13 +4,12 @@ import { Main, HeroText } from './styles';
 import Hero from '../../components/Hero';
 import Input from '../../components/Input';
 
-const WeAreNetflix = () => (
+const Home = () => (
   <Main>
     <Hero imageUrl="/static/images/home-hero.jpg">
-      <HeroText spacing={{ margin: 'bottom-lg' }} measure="large">A Great Workplace Combines Stunning Colleagues and Hard Problems.</HeroText>
-      <Input placeholder="Search Jobs" />
+      <HeroText spacing={{ margin: 'bottom-lg' }} measure="large">Great Start</HeroText>
     </Hero>
   </Main>
 );
 
-export default WeAreNetflix;
+export default Home;

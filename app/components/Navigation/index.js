@@ -26,18 +26,11 @@ export default () => (
         </LogoLink>
 
         <Nav>
-          <NavLink active>We Are Netflix</NavLink>
+          <NavLink active>Link</NavLink>
           <NavLink href="/test" onClick={ testing }>Teams</NavLink>
-          <NavLink>Locations</NavLink>
-          <NavLink>Inclusion & Diversity</NavLink>
-          <NavLink>Benefits</NavLink>
-
-          <SearchJobsBtn
-            onClick={ toggleSearch }
-            searchOpen={ searchOpen }
-          >
-            Search Jobs
-          </SearchJobsBtn>
+          <NavLink>Link2</NavLink>
+          <NavLink>Link3</NavLink>
+          <NavLink>Link4</NavLink>
         </Nav>
 
         <Shadow />
