@@ -4,12 +4,14 @@
 export const colors = {
 
   lightPink: '#f27b7d',
+  moneyGreen: '#76C2A1',
 
   stoneGray: '#808080',
   lightGray: '#efefef',
   darkGray: '#707070',
 
   white: '#ffffff',
+  black: '#000000'
 };
 
 /*

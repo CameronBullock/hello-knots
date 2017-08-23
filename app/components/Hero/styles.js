@@ -17,12 +17,12 @@ export const HeroContent = glamorous.div(
 export const HeroWrapper = glamorous.section(
   s.horizontal(c.PAGE_WRAPPER_SPACING_MOBILE, 'padding'),
   {
-    background: c.colors.black001,
+    background: c.colors.darkGray,
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
     minHeight: '75vh',
     position: 'relative',
-    
+
   },
 );
