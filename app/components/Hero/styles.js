@@ -23,5 +23,6 @@ export const HeroWrapper = glamorous.section(
     justifyContent: 'center',
     minHeight: '75vh',
     position: 'relative',
+    
   },
 );

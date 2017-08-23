@@ -2,18 +2,13 @@
  * Colors:
  */
 export const colors = {
-  nfBlack: '#221f1f',
-  nfRed: '#e50914',
-  nfTan: '#f5f5f1',
 
-  black001: '#221F1F',
-  black002: '#424040',
-  black003: '#696868',
-  black004: '#8c8c8c',
-  black005: '#a6a6a6',
-  black006: '#c7c7c7',
-  black007: '#dbdbdb',
-  black008: '#ebebeb',
+  lightPink: '#f27b7d',
+
+  stoneGray: '#808080',
+  lightGray: '#efefef',
+  darkGray: '#707070',
+
   white: '#ffffff',
 };
 
